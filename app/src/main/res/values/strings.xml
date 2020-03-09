@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity Lifecycle App</string>
+    <string name="reset">reset</string>
+    <string name="set_1_0">Set 1: 0</string>
+    <string name="set_2_0">Set 2: 0</string>
+    <string name="total">Set2</string>
+    <string name="current">Set2</string>
+    <string name="ondestroy">onDestroy: 0</string>
+    <string name="oncreate">onCreate: 0</string>
+    <string name="onrestart">onRestart: 0</string>
+    <string name="onstop">onStop: 0</string>
+    <string name="onpause">onPause: 0</string>
+    <string name="onresume">onResume: 0</string>
+    <string name="onstart">onStart: 0</string>
+</resources>
